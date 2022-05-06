@@ -1,0 +1,27 @@
+.contaienr{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.disp-fl{
+    display: flex;
+}
+
+.mr_lft{
+    margin-left: 2%; 
+ }
+
+.mr_btt{
+   margin-bottom: 1%; 
+}
+
+.mr_top{
+    margin-top: 1%; 
+ }
+
+.img_size{
+    width: 20%;
+    height: 20%x;
+}
